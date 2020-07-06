@@ -16,7 +16,7 @@ export class about extends Component {
               />
 
               <p class="lead">
-                Experienced DevOps engineer with practical experiences in cloud
+                Experienced DevOps engineer with practical knowledge in cloud
                 infrastructure: Configuration of new instances using Ansible
                 playbooks on virtual servers and bare metal, designing python
                 libraries and methods to interact with cloud API. Committed to
