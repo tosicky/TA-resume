@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TA-resume/static/css/main.5f361e03.chunk.css",
+    "main.js": "/TA-resume/static/js/main.e563f907.chunk.js",
+    "main.js.map": "/TA-resume/static/js/main.e563f907.chunk.js.map",
+    "runtime-main.js": "/TA-resume/static/js/runtime-main.e2317b1f.js",
+    "runtime-main.js.map": "/TA-resume/static/js/runtime-main.e2317b1f.js.map",
+    "static/js/2.cdb1efeb.chunk.js": "/TA-resume/static/js/2.cdb1efeb.chunk.js",
+    "static/js/2.cdb1efeb.chunk.js.map": "/TA-resume/static/js/2.cdb1efeb.chunk.js.map",
+    "index.html": "/TA-resume/index.html",
+    "precache-manifest.fe80f154b00fbc604d6e3414d3e8b560.js": "/TA-resume/precache-manifest.fe80f154b00fbc604d6e3414d3e8b560.js",
+    "service-worker.js": "/TA-resume/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/TA-resume/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cdb1efeb.chunk.js.LICENSE.txt": "/TA-resume/static/js/2.cdb1efeb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TA-resume/static/media/logo.5d5d9eef.svg",
+    "static/media/profile-pic.jpg": "/TA-resume/static/media/profile-pic.5ba85817.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2317b1f.js",
+    "static/js/2.cdb1efeb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e563f907.chunk.js"
+  ]
+}
